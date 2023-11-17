@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bast1enFR
 - 👀 I’m interested in Gaming and Dev
-- 🌱 I’m currently learning NULL
+- 🌱 I’m currently learning Blender 3D
 
 <!---
 Bast1enFR/Bast1enFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
