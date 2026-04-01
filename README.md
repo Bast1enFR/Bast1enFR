@@ -13,10 +13,6 @@ I divide my time between application development and game modding. 💻
 * **Software:** Building management and automation tools. 🛠️
 * **Goal:** Porting my C# expertise into game development. 🚀
 
----
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Bast1enFR&show_icons=true&theme=dark)
 
 ---
 
