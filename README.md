@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @Bast1enFR
-- 👀 I’m interested in Gaming and Dev
-- 🌱 I’m currently learning Blender 3D
+# 🛠️ Bast1enFR | Developer
 
-<!---
-Bast1enFR/Bast1enFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+French software developer passionate about system logic and backend architecture. 
+I divide my time between application development and game modding. 💻
+
+### 🚀 Technical Stack
+* **Languages:** C#, Java, LUA. ⚙️
+* **Web:** HTML5, JavaScript. 🌐
+* **Databases:** SQL Server, MySQL, MariaDB. 🗄️
+
+### 🎯 Current Focus
+* **Modding:** Designing systems and scripts for FiveM. 🎮
+* **Software:** Building management and automation tools. 🛠️
+* **Goal:** Porting my C# expertise into game development. 🚀
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Bast1enFR&show_icons=true&theme=dark)
+
+---
+
+💬 **Discord:** `Bast1enFR` 
+📂 **GitHub:** Explore my repositories to see my code.
